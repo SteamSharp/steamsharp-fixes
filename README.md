@@ -1,1 +1,1 @@
-# steamsharp-fixes\nGame fixes storage for SteamSharp.
+# Game fixes storage for SteamSharp.
